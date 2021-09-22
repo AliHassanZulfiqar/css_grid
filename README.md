@@ -1,2 +1,2 @@
-# css_grid
-This repo is just for learning purposes
+# CSS Grid 
+* This repository is for practicing the CSS grid concept along with getting used to the GitHub environment.
